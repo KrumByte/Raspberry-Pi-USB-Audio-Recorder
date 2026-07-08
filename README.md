@@ -1,4 +1,5 @@
 # Raspberry-Pi-USB-Audio-Recorder
+
 ## A Brief History:
 As I started making some videos for myself around different local parks, I found over time that I would really be needing myself a portable microphone. I had a few USB microphones lying around, and thought, why not use that? Sadly I couldn't really find a good way to connect my USB Mic to my camera, so I looked to portable recorders. These things can go for pretty hefty price, and being someone who likes to save their money, the DIY thought was becoming pretty considerable. It would also serve as a great introduction into sauldering I thought. So I embarked on the journey to create my own portable microphone. 
 ## Features:
@@ -72,9 +73,14 @@ I would recommend pulling up [this](https://external-content.duckduckgo.com/iu/?
 4. Use hot glue to keep everything in place (I did not hot glue the board, in case I wanted to reuse it for the future).
 5. Cram the wires into the case with the lid
 6. Thread the 1/2 inch velcro through the tunnels on the lid and case.
-7. Plug in the power and USB cables. 
+7. Plug in the power and USB cables.
+
+![recorder](images/recorder.jpeg)
 
 And badabing badaboom, you have yourself a handheld USB audio recorder.
 
 ## Final Comments
 Overall I am pretty happy with this project. I will say, my sauldering expierience was miserable. I had nothing to hold my cables and pieces down but tape. I made a mess, but I feel it was worth it in the end. 
+
+## Final Comments
+Overall I am pretty happy with this project. I will say, my sauldering expierience was miserable. I had nothing to hold my cables and pieces down but tape. I made a mess, but I feel it was worth it in the end.
