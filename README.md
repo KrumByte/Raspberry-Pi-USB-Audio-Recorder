@@ -74,4 +74,7 @@ I would recommend pulling up [this](https://external-content.duckduckgo.com/iu/?
 6. Thread the 1/2 inch velcro through the tunnels on the lid and case.
 7. Plug in the power and USB cables. 
 
-And badabing badaboom, you have yourself a handheld USB audio recorder. 
+And badabing badaboom, you have yourself a handheld USB audio recorder.
+
+## Final Comments
+Overall I am pretty happy with this project. I will say, my sauldering expierience was miserable. I had nothing to hold my cables and pieces down but tape. I made a mess, but I feel it was worth it in the end. 
