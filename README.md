@@ -81,6 +81,3 @@ And badabing badaboom, you have yourself a handheld USB audio recorder.
 
 ## Final Comments
 Overall I am pretty happy with this project. I will say, my sauldering expierience was miserable. I had nothing to hold my cables and pieces down but tape. I made a mess, but I feel it was worth it in the end. 
-
-## Final Comments
-Overall I am pretty happy with this project. I will say, my sauldering expierience was miserable. I had nothing to hold my cables and pieces down but tape. I made a mess, but I feel it was worth it in the end.
